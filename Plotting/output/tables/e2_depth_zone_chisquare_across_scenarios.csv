@@ -1,0 +1,3 @@
+"test","statistic","df","p_value"
+"E2 depth-zone distribution differs among validation scenarios; asymptotic chi-square",10443.3992661744,55,0
+"E2 depth-zone distribution differs among validation scenarios; Monte Carlo p-value",10443.3992661744,NA,9.99900009999e-05

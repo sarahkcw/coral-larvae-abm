@@ -1,0 +1,16 @@
+"experiment_id","scenario","model","response","intercept","slope","std_error","z_value","p_value","aic"
+"E1","V1A","binomial_settlement_total_area","correct_settlers_vs_not",NA,NA,NA,NA,NA,NA
+"E1","V1A","binomial_aggregation_total_area_strict","any_direct_contact_strict",NA,NA,NA,NA,NA,NA
+"E1","V1A","binomial_aggregation_total_area_legacy_cpp_threshold","any_direct_contact_legacy_cpp_threshold",NA,NA,NA,NA,NA,NA
+"E1","V1B","binomial_settlement_total_area","correct_settlers_vs_not",NA,NA,NA,NA,NA,NA
+"E1","V1B","binomial_aggregation_total_area_strict","any_direct_contact_strict",NA,NA,NA,NA,NA,NA
+"E1","V1B","binomial_aggregation_total_area_legacy_cpp_threshold","any_direct_contact_legacy_cpp_threshold",NA,NA,NA,NA,NA,NA
+"E1","V1C","binomial_settlement_total_area","correct_settlers_vs_not",NA,NA,NA,NA,NA,NA
+"E1","V1C","binomial_aggregation_total_area_strict","any_direct_contact_strict",NA,NA,NA,NA,NA,NA
+"E1","V1C","binomial_aggregation_total_area_legacy_cpp_threshold","any_direct_contact_legacy_cpp_threshold",NA,NA,NA,NA,NA,NA
+"E1","V1D","binomial_settlement_total_area","correct_settlers_vs_not",NA,NA,NA,NA,NA,NA
+"E1","V1D","binomial_aggregation_total_area_strict","any_direct_contact_strict",NA,NA,NA,NA,NA,NA
+"E1","V1D","binomial_aggregation_total_area_legacy_cpp_threshold","any_direct_contact_legacy_cpp_threshold",NA,NA,NA,NA,NA,NA
+"E1",NA,"binomial_settlement_total_area","correct_settlers_vs_not",2.29893052559418,0.0044119883647755,0.000234039713287696,18.8514517591808,2.85888007726754e-79,29544093.6307472
+"E1",NA,"binomial_aggregation_total_area_strict","any_direct_contact_strict",3.55661434114954,0.0391838417833923,0.0069195879228269,5.66274209106144,1.48972982987269e-08,56270.3979663334
+"E1",NA,"binomial_aggregation_total_area_legacy_cpp_threshold","any_direct_contact_legacy_cpp_threshold",3.55661434114954,0.0391838417833923,0.0069195879228269,5.66274209106144,1.48972982987269e-08,56270.3979663334

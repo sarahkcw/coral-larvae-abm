@@ -1,0 +1,13 @@
+"scenario","test","df_between","df_within","statistic","p_value"
+"V3A","One-way ANOVA of larval counts across height zones",4,1495,239.669410193126,4.19427593146054e-159
+"V3B","One-way ANOVA of larval counts across height zones",4,1495,257.630995132289,1.87191932707018e-168
+"V3C","One-way ANOVA of larval counts across height zones",4,1495,259.800017927648,1.44911745895023e-169
+"V3D","One-way ANOVA of larval counts across height zones",4,1495,252.473237743478,8.50986253243068e-166
+"V3E","One-way ANOVA of larval counts across height zones",4,1495,234.843310299807,1.51862483343558e-156
+"V3F","One-way ANOVA of larval counts across height zones",4,1495,222.840775112643,4.3025014730625e-150
+"V3FHI","One-way ANOVA of larval counts across height zones",4,1495,18.6516469631261,5.66644768491387e-15
+"V3FLO","One-way ANOVA of larval counts across height zones",4,1495,18.6321580082282,5.8750821582047e-15
+"V3SPL140","One-way ANOVA of larval counts across height zones",4,1495,18.574725269794,6.53569726649179e-15
+"V3SPL153","One-way ANOVA of larval counts across height zones",4,1495,18.5636033494797,6.6719697175509e-15
+"V3SPL160","One-way ANOVA of larval counts across height zones",4,1495,18.6484639655585,5.70000888824537e-15
+NA,"One-way ANOVA of larval counts across height zones",4,1495,0.99595974376439,0.408556115827124

@@ -1,0 +1,16 @@
+experiment,sensor_class,n_edges,mean_abs_weight
+E1,CCA/biofilm,2268,2.0281
+E1,internal-state,1370,2.0277
+E1,light,949,1.9922
+E1,particle-motion,1520,1.9410
+E1,temp/pressure,874,2.0150
+E2,CCA/biofilm,2050,1.9082
+E2,internal-state,1402,2.2136
+E2,light,961,2.1516
+E2,particle-motion,1643,1.9060
+E2,temp/pressure,784,2.1946
+E3,CCA/biofilm,799,2.0733
+E3,internal-state,463,2.0372
+E3,light,441,1.5799
+E3,particle-motion,937,2.0779
+E3,temp/pressure,315,1.8937

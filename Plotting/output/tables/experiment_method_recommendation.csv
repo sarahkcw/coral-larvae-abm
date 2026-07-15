@@ -1,0 +1,4 @@
+"experiment","recommended_method","primary_metric","primary_median","primary_q1","primary_q3","primary_mean","primary_sd","rank_primary","diagnostic_metric","diagnostic_median","diagnostic_q1","diagnostic_q3"
+"E1","Elitism","final_correct_settlers",219,206,224.75,208.566666666667,42.5916321175508,1,"final_avg_fitness",7966.401367,7420.53454575,8188.162476
+"E2","SUS","final_correct_settlers",240,238,242,239.633333333333,3.78274971446683,1,"final_avg_fitness",3729.0081785,3239.6129765,4045.13348375
+"E3","Elitism","final_avg_fitness",27721.4570315,22836.731445,30700.977051,25699.2322917,7609.7243282053,1,"final_total_settlers",2,1,4
