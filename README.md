@@ -34,3 +34,11 @@ The model runs inside the Unreal editor; analysis runs in R + Python.
 ## Data availability
 This repository contains the **code** and the small result artifacts (figures in `Plotting/output/plots/`, summary tables in `Plotting/output/tables/`). All larger **data** — per-agent validation positions, controller trajectory logs, and the full neuroevolution training output (per-generation logs and evolved genomes) — is archived, with a citable DOI, at 10.5281/zenodo.21381268. 
 To reproduce figures that need the raw data, download the Zenodo archive and restore: `positions/*` and `extracts/*` → `Plotting/output/data/`, `trajectories/*` → `coral-larvae-abm/Content/Evolution/`, `training/*` → `Training/`.
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+The genome-encoded neural-controller representation is adapted from David R. Miller's [biosim4](https://github.com/davidrmiller/biosim4) (MIT License).
